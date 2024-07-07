@@ -1,0 +1,17 @@
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\TestTask1.csproj.AssemblyReference.cache
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\FolderWindows\MainWindow.g.cs
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\App.g.cs
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\TestTask1_MarkupCompile.cache
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\TestTask1_MarkupCompile.lref
+C:\Мои документы\test\TestTask1\TestTask1\bin\Debug\TestTask1.exe.config
+C:\Мои документы\test\TestTask1\TestTask1\bin\Debug\TestTask1.exe
+C:\Мои документы\test\TestTask1\TestTask1\bin\Debug\TestTask1.pdb
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\FolderPages\PageForm.g.cs
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\FolderPages\PageForm.baml
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\FolderWindows\MainWindow.baml
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\TestTask1.g.resources
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\TestTask1.Properties.Resources.resources
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\TestTask1.csproj.GenerateResource.cache
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\TestTask1.csproj.CoreCompileInputs.cache
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\TestTask1.exe
+C:\Мои документы\test\TestTask1\TestTask1\obj\Debug\TestTask1.pdb

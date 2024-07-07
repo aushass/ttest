@@ -1,0 +1,28 @@
+﻿@model IndexViewModel
+@{
+    ViewData["Title"] = "Главная страница";
+}
+
+<div class="text-center">
+    <form asp-action="create" asp-controller="home">
+        <p>
+            <label asp-for="NameUser">Имя</label>
+            <input asp-for="NameUser" type="text" />
+
+            <label asp-for="EmailUser">E-mail</label>
+            <input asp-for="EmailUser" type="email" />
+
+            <label asp-for="Dishes">Блюдо</label>
+            <select asp-for="Dishes" onselect="selected">
+                <option>--Выберите блюдо--</option>
+                @foreach (var item in Model.Dishes)
+                {
+                    <option>@item.NameDish</option>
+                }
+            </select>
+
+            <br /><input name="addDish" type="button" value="Добавить новое блюдо" />
+        </p>
+        <input name="talkAboutFood" type="button" value="Рассказать о том, что я ем" />
+    </form>
+</div>
